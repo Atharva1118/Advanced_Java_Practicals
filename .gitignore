@@ -1,0 +1,14 @@
+# Java compiled files
+*.class
+**/build/
+**/bin/
+
+# Build output
+**/target/
+
+# Eclipse workspace metadata
+.metadata/
+
+# OS files
+.DS_Store
+Thumbs.db
